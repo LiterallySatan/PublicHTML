@@ -10,15 +10,15 @@ header {
 	}
 
 h1{
-	color:INDIANRED;
+	color:indianred;
 }
 
 nav a{
-	background-color:INDIANRED;
+	background-color:indianred;
 	margin: 20px;
 	padding: 5px 10px;
 	border-radius: 5px;
-	color: INDIANRED;
+	color: indianred;
 	text-decoration:none;
 }
 
@@ -36,7 +36,7 @@ nav a{
  	margin: 20px;
  }
  article:last-of-type{
- 	color: INDIANRED;
+ 	color: indianred;
  }
 
  h2{
@@ -53,7 +53,7 @@ nav a{
  	width:70%;
  	margin:0 auto;
  	padding:5px 20px;
- 	background-color: 333333;
+ 	background-color: #333333;
  	height: 90px;
  }
 
@@ -61,9 +61,9 @@ nav a{
  	width: 50%;
  	float:left;
  	height: 90px;
- 	background-color:333333;
+ 	background-color:#333333;
  	/* padding: 3px; */
- 	color: INDIANRED;
+ 	color: indianred;
  	text-align: center;
  }
 
