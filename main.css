@@ -51,7 +51,7 @@ nav a{
  
  footer{
  	width:70%;
- 	margin:10x;
+ 	margin:auto;
  	padding:5px 20px;
  	background-color: #333333;
  	height: 90px;
@@ -59,6 +59,7 @@ nav a{
 
  .footer{
  	width: 50%;
+	float:left;
  	height: 90px;
  	background-color:#333333;
  	/* padding: 3px; */
