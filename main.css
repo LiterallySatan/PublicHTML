@@ -31,7 +31,7 @@ nav a{
         }
  article{
  	background-color: #000;
- 	color:#d8ff00;
+ 	color:indianred;
  	padding:15px;
  	margin: 20px;
  }
@@ -51,7 +51,7 @@ nav a{
  
  footer{
  	width:70%;
- 	margin:0 auto;
+ 	margin:10x;
  	padding:5px 20px;
  	background-color: #333333;
  	height: 90px;
